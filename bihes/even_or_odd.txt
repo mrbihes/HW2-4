@@ -1,0 +1,3 @@
+this code gets a number and tell it is odd or even
+we check it with We divided that number by 2, and 
+if we see the remainder was 0, then it is even, except for that person

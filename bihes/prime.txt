@@ -1,0 +1,3 @@
+this code gets a number and tell it is prime or not
+If that number was divisible by one of the numbers before it
+, then it is not a prime number and vice versa
